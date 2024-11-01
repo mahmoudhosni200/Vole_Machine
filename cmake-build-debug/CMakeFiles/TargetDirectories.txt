@@ -1,0 +1,3 @@
+D:/voleee/cmake-build-debug/CMakeFiles/voleee.dir
+D:/voleee/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/voleee/cmake-build-debug/CMakeFiles/rebuild_cache.dir
